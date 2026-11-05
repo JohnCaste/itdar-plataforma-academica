@@ -8,7 +8,7 @@ modalidad virtual.
 **Sitio en producción:** [itdar.org](https://itdar.org) · En uso desde 18 de abril de 2023
 El código fuente es privado porque maneja datos institucionales.
 Puedo mostrarlo y explicarlo en una entrevista.
-![Portal del alumno de la plataforma ITDAR](docs/capturas/portal-alumno.png)
+![Portal del alumno de la plataforma ITDAR](docs/capturas/portal_alumno.png)
 ---
 
 ## Contexto
