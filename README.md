@@ -5,10 +5,13 @@ Plataforma web que digitalizó la gestión académica del Instituto Teológico
 David Arcos Ríos (Río Blanco, Veracruz) y que hizo posible abrir su
 modalidad virtual.
 
-**Sitio en producción:** [itdar.org](https://itdar.org) · En uso desde 18 de abril de 2023
-El código fuente es privado porque maneja datos institucionales.
+🔗 **Sitio en producción:** [itdar.org](https://itdar.org) · En uso desde el 18 de abril de 2023
+
+🔒 El código fuente es privado porque maneja datos institucionales.
 Puedo mostrarlo y explicarlo en una entrevista.
-![Portal del alumno de la plataforma ITDAR](docs/capturas/portal_alumno.png)
+
+![Portal del alumno de la plataforma ITDAR](docs/capturas/portal-alumno.png)
+
 ---
 
 ## Contexto
