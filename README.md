@@ -29,8 +29,8 @@ Una plataforma con portales separados por rol:
 | Materias con recursos, temario y entrega de tareas | Publicación de recursos y revisión de tareas con retroalimentación | Admisión virtual con links de invitación y revisión de solicitudes |
 | Kárdex y boleta descargable en PDF | Generación de cuestionarios de práctica con IA a partir de un PDF | Alta y gestión de alumnos y maestros |
 | Calendario de clases del cuatrimestre | Gestión de calificaciones | Inventario de activos con etiquetas QR |
-| Plan de lectura bíblica con seguimiento de avance | | Anuncios, indicadores y encuestas |
-| Notificaciones | | Sincronización de clases virtuales con Google Meet |
+| Plan de lectura bíblica con seguimiento de avance | Biblioteca de documentos de apoyo para las clases | Anuncios, indicadores y encuestas |
+| Notificaciones | Legajo de documentos | Sincronización de clases virtuales con Google Meet |
 
 ## Stack
 - **Frontend:** Angular · design system propio · Firebase Hosting
