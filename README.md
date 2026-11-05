@@ -8,7 +8,7 @@ modalidad virtual.
 **Sitio en producción:** [itdar.org](https://itdar.org) · En uso desde 18 de abril de 2023
 El código fuente es privado porque maneja datos institucionales.
 Puedo mostrarlo y explicarlo en una entrevista.
-
+![Portal del alumno de la plataforma ITDAR](docs/capturas/portal-alumno.png)
 ---
 
 ## Contexto
@@ -42,6 +42,15 @@ Una plataforma con portales separados por rol:
 ## Mi rol
 Desarrollador principal: diseño, arquitectura e implementación de la
 plataforma completa, con la mentoría de un desarrollador senior.
+
+## Capturas
+
+| | |
+|---|---|
+| ![Materia con entregas](docs/capturas/materia_docs.png)<br>*Materia: recursos y enlaces* | ![Kárdex](docs/capturas/kardex.png)<br>*Kárdex del alumno* |
+| ![Revisión de documentos](docs/capturas/revision-documentos.png)<br>*Estados de validación (ADR-0012)* | ![Grabación de clase](docs/capturas/grabacion.png)<br>*Compresión asíncrona (ADR-0017)* |
+
+*Capturas tomadas en el entorno de pruebas con datos ficticios.*
 
 ## Arquitectura
 ```mermaid
