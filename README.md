@@ -10,7 +10,7 @@ modalidad virtual.
 🔒 El código fuente es privado porque maneja datos institucionales.
 Puedo mostrarlo y explicarlo en una entrevista.
 
-![Portal del alumno de la plataforma ITDAR](docs/capturas/portal-alumno.png)
+![Portal del alumno de la plataforma ITDAR](docs/capturas/portal_alumno.png)
 
 ---
 
